@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e0d4fe60b01c2a53c1f985f6c7f0c7cd",
+    "revision": "4b6d4582f3bec4fd9bd0f489280bdd42",
     "url": "mythu-ng.github.io/index.html"
   },
   {
-    "revision": "fc4c5e8cb86ec3a6db30",
+    "revision": "b0deea51b4e07c740c8f",
     "url": "mythu-ng.github.io/static/css/main.828ab2ca.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "mythu-ng.github.io/static/js/2.6830f66a.chunk.js"
   },
   {
-    "revision": "fc4c5e8cb86ec3a6db30",
-    "url": "mythu-ng.github.io/static/js/main.2ea83dc2.chunk.js"
+    "revision": "b0deea51b4e07c740c8f",
+    "url": "mythu-ng.github.io/static/js/main.62124f1b.chunk.js"
   },
   {
     "revision": "d7730f2049f5278f23e1",
