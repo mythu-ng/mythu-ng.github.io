@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "mythu-ng.github.io/static/css/main.0754a9a5.chunk.css",
-    "main.js": "mythu-ng.github.io/static/js/main.da09042c.chunk.js",
-    "main.js.map": "mythu-ng.github.io/static/js/main.da09042c.chunk.js.map",
+    "main.js": "mythu-ng.github.io/static/js/main.9215bfcc.chunk.js",
+    "main.js.map": "mythu-ng.github.io/static/js/main.9215bfcc.chunk.js.map",
     "runtime-main.js": "mythu-ng.github.io/static/js/runtime-main.f99168a2.js",
     "runtime-main.js.map": "mythu-ng.github.io/static/js/runtime-main.f99168a2.js.map",
     "static/js/2.887c80d5.chunk.js": "mythu-ng.github.io/static/js/2.887c80d5.chunk.js",
     "static/js/2.887c80d5.chunk.js.map": "mythu-ng.github.io/static/js/2.887c80d5.chunk.js.map",
     "index.html": "mythu-ng.github.io/index.html",
-    "precache-manifest.6a050903010db1851ffccb5a20cc0013.js": "mythu-ng.github.io/precache-manifest.6a050903010db1851ffccb5a20cc0013.js",
+    "precache-manifest.93bb1246bf094a25e05c2f08256be848.js": "mythu-ng.github.io/precache-manifest.93bb1246bf094a25e05c2f08256be848.js",
     "service-worker.js": "mythu-ng.github.io/service-worker.js",
     "static/css/main.0754a9a5.chunk.css.map": "mythu-ng.github.io/static/css/main.0754a9a5.chunk.css.map",
     "static/media/index.css": "mythu-ng.github.io/static/media/Montserrat-Regular.ee653992.ttf",
@@ -66,6 +66,6 @@
     "static/js/runtime-main.f99168a2.js",
     "static/js/2.887c80d5.chunk.js",
     "static/css/main.0754a9a5.chunk.css",
-    "static/js/main.da09042c.chunk.js"
+    "static/js/main.9215bfcc.chunk.js"
   ]
 }
