@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "mythu-ng.github.io/precache-manifest.0c840be3ba794f9847975dc6065972f1.js"
+  "mythu-ng.github.io/precache-manifest.6a050903010db1851ffccb5a20cc0013.js"
 );
 
 self.addEventListener('message', (event) => {
